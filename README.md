@@ -49,6 +49,9 @@ The dashboard provides interactive insights into patient demographics, cholester
 5. **Summary Cards** – Displaying average age, average cholesterol, and total patients.
 
 ---
+## Conclusion⚡
+
+The analysis of the Heart.csv dataset highlights that factors like age, cholesterol, blood pressure, and heart rate play a vital role in predicting heart disease. The study shows that data-driven analysis can effectively identify high-risk individuals and support early prevention and diagnosis. Promoting healthy lifestyles and regular health monitoring remains essential for reducing the risk of cardiovascular diseases.
 
 ## 🧩 Tools Used
 - **Microsoft Power BI** – for data visualization  
