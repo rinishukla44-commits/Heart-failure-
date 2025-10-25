@@ -54,5 +54,5 @@ The dashboard provides interactive insights into patient demographics, cholester
 - **Microsoft Power BI** – for data visualization  
 - **Python & KaggleHub** – for dataset retrieval  
 - **Excel / CSV** – for pr processing 
-Author
+## 🌼Author
 Baladitya Shukla 
